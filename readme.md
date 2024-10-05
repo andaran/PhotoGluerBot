@@ -8,7 +8,7 @@
 
    ```bash
    git clone https://github.com/andaran/PhotoGluerBot
-   cd photo-merge-bot
+   cd PhotoGluerBot
    ```
 
 2. **Установка зависимостей:**
